@@ -1,1 +1,12 @@
 target/
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/libraries/Maven__org_jsoup_jsoup_1_7_2.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
+Fxcm_Report_Interpreter.iml
